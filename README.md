@@ -1,9 +1,18 @@
 # JARVIS: Your Personal Voice Assistant
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-v3.8.1-orange.svg)
-![Pyttsx3](https://img.shields.io/badge/Pyttsx3-v2.7.1-green.svg)
-![Web Browser](https://img.shields.io/badge/Web%20Browser-v2.5.0-yellow.svg)
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/Voice-Activated-JARVIS?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/Voice-Activated-JARVIS?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/Voice-Activated-JARVIS)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/Voice-Activated-JARVIS)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/Voice-Activated-JARVIS)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/Voice-Activated-JARVIS)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/Voice-Activated-JARVIS)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/Voice-Activated-JARVIS)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/Voice-Activated-JARVIS)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/Voice-Activated-JARVIS?style=social)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/arpsn123/Voice-Activated-JARVIS)
+![Maintenance Status](https://img.shields.io/badge/Maintained-Yes-green)
+
 
 ## Description
 
@@ -20,7 +29,10 @@ JARVIS (Just A Rather Very Intelligent System) is a simple yet powerful voice as
 - **Security Protocol**: Requires a passcode to access JARVIS functionalities, ensuring user privacy and security.
 
 ## Tech Stack
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-v3.8.1-orange.svg)
+![Pyttsx3](https://img.shields.io/badge/Pyttsx3-v2.7.1-green.svg)
+![Web Browser](https://img.shields.io/badge/Web%20Browser-v2.5.0-yellow.svg)
 - **Python**: The primary programming language used for building the application.
 - **Pyttsx3**: A text-to-speech conversion library in Python that works offline.
 - **Speech Recognition**: A library that helps recognize speech and convert it into text.
